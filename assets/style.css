@@ -199,7 +199,7 @@ footer p {
     }
 
     #welcome-section.mobile h1 {
-        font-size: 52.8px;
+        font-size: 6rem;
     }
 
     #projects .btn {
@@ -208,7 +208,7 @@ footer p {
     }
     
     #contact-header.mobile h2 {
-        font-size: 35.2px;
+        font-size: 4rem;
     }
 
     #contact-header.mobile p {
